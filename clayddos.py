@@ -6,7 +6,7 @@ def usage():
     print "\033[1;32m#########################################################"
     print "------------------------[\033[1;91mCLAY DDOS\033[1;32m]---------------------"
     print "-------------------------------------------------------"
-    print "   \033[1;91mCaranya: " "python2 CLAYDDOS.py " "<ip> <port> <packet> \033[1;32m   "
+    print "   \033[1;91mCaranya: " "python2 clayddos.py " "<ip> <port> <packet> \033[1;32m   "
     print "                                                      "
     print "\033[1;91m   Creator  :  Bartes Dwiky \033[1;32m                            "
     print "\033[1;91m   Team     :  CLAY Hacker Team      \033[1;32m                "
